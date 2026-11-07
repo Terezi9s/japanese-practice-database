@@ -278,7 +278,7 @@
   {"id":10036,"level":"N1","isPremium":false,"text":"新薬の効果を 示唆 するデータ。","keyword":"示唆","options":["しさ","否定","かくじつ","むし"],"correctAnswer":"しさ","explanation":"示唆 (しさ): Khơi gợi, ám chỉ, gợi ý ngầm."},
   {"id":10037,"level":"N1","isPremium":false,"text":"伝統を守るために 奮闘 している。","keyword":"奮闘","options":["ふんとう","さぼり","きゅうけい","あきらめ"],"correctAnswer":"ふんとう","explanation":"奮闘 (ふんとう): Phấn đấu, đấu tranh kiên cường."},
   {"id":10038,"level":"N1","isPremium":false,"text":"計画を 抜本 的に見直す必要がある。","keyword":"抜本","options":["ばっぽん","すこし","いちぶ","かり"],"correctAnswer":"ばっぽん","explanation":"抜本 (ばっぽん): Triệt để, tận gốc rễ."},
-  {"id":10039,"level":"N1","isPremium":false,"text":"他人の意見を 拝聴 する。","keyword":"拝聴","options":["はいちょう","きく","はなす","むし"],"correctAnswer":"はいちょう","explanation":"拝聴 (はいちょう): Khiêm nhường ngữ của 聞く(nghe, lắng nghe cấp trên)."}
+  {"id":10039,"level":"N1","isPremium":false,"text":"他人の意見を 拝聴 する。","keyword":"拝聴","options":["はいちょう","きく","はなす","むし"],"correctAnswer":"はいちょう","explanation":"拝聴 (はいちょう): Khiêm nhường ngữ của 聞く(nghe, lắng nghe cấp trên)."},
   {"id":10040,"level":"N1","isPremium":false,"text":"問題の解決を 模索 している。","keyword":"模索","options":["もさく","ちゅうし","あきらめ","けいかく"],"correctAnswer":"もさく","explanation":"模索 (もさく): Tìm kiếm, mò mẫm phương hướng giải quyết."},
   {"id":10041,"level":"N1","isPremium":false,"text":"過去の事例を 踏襲 する方針だ。","keyword":"踏襲","options":["とうしゅう","へんこう","はかい","ききゃく"],"correctAnswer":"とうしゅう","explanation":"踏襲 (とうしゅう): Dựa theo, đi theo đường lối cũ."},
   {"id":10042,"level":"N1","isPremium":false,"text":"彼は 莫大 な遺産を相続した。","keyword":"莫大","options":["ばくだい","わずか","すこし","てきど"],"correctAnswer":"ばくだい","explanation":"莫大 (ばくだい): To lớn, khổng lồ."},
@@ -309,7 +309,7 @@
   {"id":10067,"level":"N1","isPremium":false,"text":"困難な状況の中で 奮闘 する姿に胸を打たれた。","keyword":"奮闘","options":["ふんとう","さぼり","きゅうけい","あきらめ"],"correctAnswer":"ふんとう","explanation":"奮闘 (ふんとう): Phấn đấu, đấu tranh kiên cường vất vả."},
   {"id":10068,"level":"N1","isPremium":false,"text":"組織の 抜本 的な見直しを断行する。","keyword":"抜本","options":["ばっぽん","すこし","いちぶ","かり"],"correctAnswer":"ばっぽん","explanation":"抜本 (ばっぽん): Đột phá cải cách triệt để tận gốc rễ."},
   {"id":10069,"level":"N1","isPremium":false,"text":"高名な学者の公演を 拝聴 する機会を得た。","keyword":"拝聴","options":["はいちょう","きく","はなす","むし"],"correctAnswer":"はいちょう","explanation":"拝聴 (はいちょう): Kính nghe, lắng nghe (khiêm nhường ngữ của 聞く)."},
-  {"id":10070,"level":"N1","isPremium":false,"text":"迅速 な意思決定がビジネスの成否を分ける。","keyword":"迅速","options":["じんそく","のんびり","おそい","ていねい"],"correctAnswer":"じんそく","explanation":"迅速 (じんそく): Thần tốc, mau lẹ, khẩn trương."}
+  {"id":10070,"level":"N1","isPremium":false,"text":"迅速 な意思決定がビジネスの成否を分ける。","keyword":"迅速","options":["じんそく","のんびり","おそい","ていねい"],"correctAnswer":"じんそく","explanation":"迅速 (じんそく): Thần tốc, mau lẹ, khẩn trương."},
   {"id":10071,"level":"N1","isPremium":false,"text":"国家の 威信 をかけた一大プロジェクト。","keyword":"威信","options":["いしん","しんよう","りえき","なまえ"],"correctAnswer":"いしん","explanation":"威信 (いしん): Uy tín, uy danh quốc gia."},
   {"id":10072,"level":"N1","isPremium":false,"text":"彼の提案は 斬新 なアイデアに満ちていた。","keyword":"斬新","options":["ざんしん","ふつう","古い","てきとう"],"correctAnswer":"ざんしん","explanation":"斬新 (ざんしん): Độc đáo, mới lạ, mang tính đột phá."},
   {"id":10073,"level":"N1","isPremium":false,"text":"長年の努力が 結実 して成果を収めた。","keyword":"結実","options":["けつじつ","しっぱい","ちゅうし","えんき"],"correctAnswer":"けつじつ","explanation":"結実 (けつじつ): Đơm hoa kết trái, gặt hái thành công."},
@@ -331,7 +331,7 @@
   {"id":10089,"level":"N1","isPremium":false,"text":"情報の 迅速 な伝達がパニックを防ぐ。","keyword":"迅速","options":["じんそく","のんびり","おそい","ていねい"],"correctAnswer":"じんそく","explanation":"迅速 (じんそk): Thần tốc, khẩn trương, nhanh lẹ."},
   {"id":10090,"level":"N1","isPremium":false,"text":"都合の悪い事実を 隠蔽 する体質を改善する。","keyword":"隠蔽","options":["いんぺい","こくはく","はっぴょう","こうかい"],"correctAnswer":"いんぺい","explanation":"隠蔽 (いんぺい): Bưng bít, che giấu thông tin bất lợi."},
   {"id":10091,"level":"N1","isPremium":false,"text":"古い殻を 打破 して新しい時代を切り開く。","keyword":"打破","options":["だは","いじ","ままもる","けいしょう"],"correctAnswer":"だは","explanation":"打破 (だは): Phá vỡ, đập tan rào cản cũ kỹ."},
-  {"id":10092,"level":"N1","isPremium":false,"text":"あらゆる逆境を 克服 して栄光を掴み取った。","keyword":"克服","options":["こくふく","あきらめ","にげる","まける"],"correctAnswer":"こくふく","explanation":"克服 (こくふく): Khắc phục, vượt qua nghịch cảnh thử thách."}
+  {"id":10092,"level":"N1","isPremium":false,"text":"あらゆる逆境を 克服 して栄光を掴み取った。","keyword":"克服","options":["こくふく","あきらめ","にげる","まける"],"correctAnswer":"こくふく","explanation":"克服 (こくふく): Khắc phục, vượt qua nghịch cảnh thử thách."},
   {"id":10093,"level":"N1","isPremium":false,"text":"彼の主張には論理的な 矛盾 がある。","keyword":"矛盾","options":["むじゅん","いっち","れんけい","どうい"],"correctAnswer":"むじゅん","explanation":"矛盾 (むじゅん): Mâu thuẫn, bất nhất."},
   {"id":10094,"level":"N1","isPremium":false,"text":"課せられた任務を 遂行 する。","keyword":"遂行","options":["すいこう","ちゅうし","えんき","だんねん"],"correctAnswer":"すいこう","explanation":"遂行 (すいこう): Hoàn thành, thực thi nhiệm vụ tới cùng."},
   {"id":10095,"level":"N1","isPremium":false,"text":"従来の慣例を 踏襲 する方針に変わりはない。","keyword":"踏襲","options":["とうしゅう","へんこう","はかい","ききゃく"],"correctAnswer":"とうしゅう","explanation":"踏襲 (とうしゅう): Kế thừa, đi theo cách làm cũ."},
@@ -349,7 +349,7 @@
   {"id":10107,"level":"N1","isPremium":false,"text":"最新の調査結果はある仮説を 示唆 している。","keyword":"示唆","options":["しさ","否定","かくじつ","むし"],"correctAnswer":"しさ","explanation":"示唆 (しさ): Gợi ý ngầm, khơi gợi, ám chỉ."},
   {"id":10108,"level":"N1","isPremium":false,"text":"社会正義のために 奮闘 する弁護士。","keyword":"奮闘","options":["ふんとう","さぼり","きゅうけい","あきらめ"],"correctAnswer":"ふんとう","explanation":"奮闘 (ふんとう): Nỗ lực kiên cường, phấn đấu gian khổ."},
   {"id":10109,"level":"N1","isPremium":false,"text":"教育制度の 抜本 的な改革が急務である。","keyword":"抜本","options":["ばっぽん","すこし","いちぶ","かり"],"correctAnswer":"ばっぽん","explanation":"抜本 (ばっぽん): Cải cách triệt để, tận gốc rễ."},
-  {"id":10110,"level":"N1","isPremium":false,"text":"有識者の高見を 拝聴 し、大変勉強になりました。","keyword":"拝聴","options":["はいちょう","きく","はなす","むし"],"correctAnswer":"拝聴 (はいちょう): Kính nghe, lắng nghe cấp trên (khiêm nhường ngữ của 聞く)."}
+  {"id":10110,"level":"N1","isPremium":false,"text":"有識者の高見を 拝聴 し、大変勉強になりました。","keyword":"拝聴","options":["はいちょう","きく","はなす","むし"],"correctAnswer":"拝聴 (はいちょう): Kính nghe, lắng nghe cấp trên (khiêm nhường ngữ của 聞く)."},
   {"id":10111,"level":"N1","isPremium":false,"text":"この特例は彼には 適用 されない。","keyword":"適用","options":["てきよう","じょがい","ききゃく","へんこう"],"correctAnswer":"てきよう","explanation":"適用 (てきよう): Áp dụng, ứng dụng vào."},
   {"id":10112,"level":"N1","isPremium":false,"text":"実力を 遺憾 なく発揮した素晴らしい試合。","keyword":"遺憾","options":["いかん","すこし","まったく","へた"],"correctAnswer":"いかん","explanation":"遺憾 (いかん): Tiếc nuối (遺憾なく: Hết mình, không có gì hối tiếc)."},
   {"id":10113,"level":"N1","isPremium":false,"text":"彼の言葉には重大な意味が 示唆 されている。","keyword":"示唆","options":["しさ","否定","かくじつ","むし"],"correctAnswer":"しさ","explanation":"示唆 (しさ): Gợi ý ngầm, ám chỉ."},
