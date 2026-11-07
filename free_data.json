@@ -258,7 +258,7 @@
   {"id":10016,"level":"N1","isPremium":false,"text":"厳しい環境に 耐える 必要がある。","keyword":"耐える","options":["たえる","にげる","やめる","まける"],"correctAnswer":"たえる","explanation":"耐える (たえる): Chịu đựng, cam chịu."},
   {"id":10017,"level":"N1","isPremium":false,"text":"迅速 な対応が求められる。","keyword":"迅速","options":["じんそく","のんびり","おそい","ていねい"],"correctAnswer":"じんそく","explanation":"迅速 (じんそく): Nhanh chóng, thần tốc."},
   {"id":10018,"level":"N1","isPremium":false,"text":"事実を 隠蔽 しようとした。","keyword":"隠蔽","options":["いんぺい","こくはく","はっぴょう","こうかい"],"correctAnswer":"いんぺい","explanation":"隠蔽 (いんぺい): Che giấu, bế mạc thông tin."},
-  {"id":10019,"level":"N1","isPremium":false,"text":"困難を 克服 して成功を収める。","keyword":"克服","options":["こくふく","あきらめ","にげ","ざんねん"],"correctAnswer":"こくふく","explanation":"克服 (こくふく): Khắc phục, vượt qua khó khăn."}
+  {"id":10019,"level":"N1","isPremium":false,"text":"困難を 克服 して成功を収める。","keyword":"克服","options":["こくふく","あきらめ","にげ","ざんねん"],"correctAnswer":"こくふく","explanation":"克服 (こくふく): Khắc phục, vượt qua khó khăn."},
   {"id":10020,"level":"N1","isPremium":false,"text":"事態を 収拾 するために全力を尽くす。","keyword":"収拾","options":["しゅうしゅう","かいけつ","むし","ちゅうし"],"correctAnswer":"しゅうしゅう","explanation":"収拾 (しゅうしゅう): Thu thập, dàn xếp ổn thỏa."},
   {"id":10021,"level":"N1","isPremium":false,"text":"古い慣習を 打破 する時が来た。","keyword":"打破","options":["だは","いじ","まもる","けいしょう"],"correctAnswer":"だは","explanation":"打破 (だは): Đập tan, phá vỡ định kiến/luật cũ."},
   {"id":10022,"level":"N1","isPremium":false,"text":"彼の発言は 矛盾 に満ちている。","keyword":"矛盾","options":["むじゅん","いっち","れんけい","どうい"],"correctAnswer":"むじゅん","explanation":"矛盾 (むじゅん): Mâu thuẫn, bất nhất."},
