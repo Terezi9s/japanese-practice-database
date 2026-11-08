@@ -1,5 +1,6 @@
 {
-  "database_version": 1,
+  "free_version": 1,
+  "premium_version": 1,
   "free_data_url": "https://raw.githubusercontent.com/Terezi9s/japanese-practice-database/refs/heads/main/free_data.json",
   "premium_data_url": "https://raw.githubusercontent.com/Terezi9s/japanese-practice-database/refs/heads/main/premium_data.json"
 }
